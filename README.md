@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+# Burger Tasty
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Apresento a vocês uma aplicação de carrinho de compras de hambúrgueres, onde os usuários podem personalizar seus pedidos, calcular o preço e visualizar o carrinho de compras. Utilizei tecnologias como React Router DOM, React Hook Form, Axios, Styled Components, ContextAPI, Yup e TypeScript para criar uma experiência envolvente e responsiva.
 
-## Available Scripts
+## Funcionalidades
 
-In the project directory, you can run:
+Personalização de pedidos: Os usuários podem escolher entre uma variedade de hambúrgueres e acompanhamentos para montar seu pedido.\
+Cálculo de preço: A aplicação calcula o preço total com base nos items selecionados e exibe-o para o usuário.\
+Carrinho de compras: Os usuários podem visualizar o carrinho de compras, que mostra os itens selecionados, a quantidade e o preço total.\
 
-### `yarn start`
+## Tecnologias Utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+React: Biblioteca JavaScript para criação de interfaces de usuário.\
+React Router DOM: Gerenciamento de rotas na aplicação React.\
+React Hook Form: Gerenciamento de formulários e validação.\
+Axios: Biblioteca para realizar requisições HTTP.\
+Styled Components: Estilização de componentes utilizando CSS-in-JS.\
+ContextAPI: Gerenciamento de estado global na aplicação.\
+Yup: Validação de dados no lado do cliente.\
+TypeScript: Superset do JavaScript que adiciona tipagem estática à linguagem.\
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Uso
 
-### `yarn test`
+Acesse a aplicação através deste [link](https://tasty-burger.vercel.app/login).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Caso deseje instalar em sua maquina:
 
-### `yarn build`
+1. Clone ou faça o download do repositório.
+2. Navegue até o diretório do projeto: cd nome-do-projeto.
+3. Instale as dependências: npm install.
+4. Inicie a aplicação: npm start.
+5. Acesse a aplicação em seu navegador através do endereço: http://localhost:3000.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contribuição
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou relatar problemas.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
