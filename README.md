@@ -25,10 +25,10 @@ Acesse a aplicação através deste [link](https://tasty-burger.vercel.app/login
 
 Caso deseje instalar em sua maquina:
 
-1. Clone ou faça o download do repositório.\
-2. Navegue até o diretório do projeto: cd nome-do-projeto.\
-3. Instale as dependências: npm install.\
-4. Inicie a aplicação: npm start.\
+1. Clone ou faça o download do repositório.
+2. Navegue até o diretório do projeto: cd nome-do-projeto.
+3. Instale as dependências: npm install.
+4. Inicie a aplicação: npm start.
 5. Acesse a aplicação em seu navegador através do endereço: http://localhost:3000.
 
 ## Contribuição
